@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Thu Sep 10 18:50:52 2026 as: /usr/lib/nmap/nmap -sS -p 8080 -oN ../evidence/nmap-port-scan.txt 10.20.30.20
+Nmap scan report for 10.20.30.20
+Host is up (0.000033s latency).
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+MAC Address: 26:28:FF:42:D7:BE (Unknown)
+
+# Nmap done at Thu Sep 10 18:50:52 2026 -- 1 IP address (1 host up) scanned in 0.38 seconds
