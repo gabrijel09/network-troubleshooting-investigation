@@ -47,7 +47,7 @@ Nmap reported the port as `filtered`, which suggested that traffic might be drop
 
 Wireshark showed SYN packets being sent from the client to the server, but no SYN/ACK or RST/ACK response was received.
 
-![Filtered port traffic](screenshots/filtered-port-wireshark.png)
+![Filtered port traffic](screenshots/wireshark-nmap-scan.png)
 
 ### 4. Server-Side Service Check
 
