@@ -1,4 +1,4 @@
-# Network Troubleshoting Investigation
+# Network Troubleshooting Investigation
 
 ## Project Overview
 
